@@ -2,6 +2,10 @@
 
 ROKEY 지능-1 C-3조 파이널 프로젝트 결과물입니다. 
 
+Yolov8과 Turtlebot4 2대를 이용한 배송 서비스를 구현하였습니다. 
+
+
+
 [IP-Webcam 다운로드(Android)](https://play.google.com/store/apps/details?id=com.pas.webcam&hl=ko&pli=1)
 
 
